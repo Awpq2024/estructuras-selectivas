@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 	int numero;
+	cout<<"------------------Bienvenido-------------"<<endl;
 	cout<<"Ingrese un numero natural del 1 al 5: ";
 	cin>>numero;
 	
