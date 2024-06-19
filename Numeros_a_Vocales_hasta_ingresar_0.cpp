@@ -30,7 +30,7 @@ int main(){
 			cout<<"Saliendo del programa...";
 			break;
 		default:
-			cout<<"El numero que ingreso no es una opcion valida"<<endl<<endl;
+			cout<<"El numero que ingreso no es una opcion valida, intente de nuevo"<<endl<<endl;
 			break;
 	}
 	}while(numero!=0);
