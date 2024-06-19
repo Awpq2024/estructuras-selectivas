@@ -7,7 +7,7 @@ int main(){
 	cout<<"------------------Bienvenido-------------"<<endl;
 	
 	do{
-	cout<<"Ingrese un numero natural del 1 al 5 (0 para salir): ";
+	cout<<"Ingrese un numero natural del 1 al 5 para mostrar una vocal (0 para salir): ";
 	cin>>numero;
 	
 	switch (numero){
